@@ -13,7 +13,7 @@ Subscribe to changes in values. Works with kea `3.0.0` and up.
 [Read the documentation](https://keajs.org/docs/plugins/subscriptions)
 
 ```ts
-import { kea, reducers } from 'kea'
+import { kea, actions, reducers } from 'kea'
 import { subscriptionsPlugin, subscriptions } from 'kea-subscriptions'
 
 // once per app
