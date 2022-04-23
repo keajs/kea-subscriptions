@@ -1,6 +1,6 @@
-[![NPM Version](https://img.shields.io/npm/v/kea-loaders.svg)](https://www.npmjs.com/package/kea-loaders)
-[![minified](https://badgen.net/bundlephobia/min/kea-loaders)](https://bundlephobia.com/result?p=kea-loaders)
-[![minified + gzipped](https://badgen.net/bundlephobia/minzip/kea-loaders)](https://bundlephobia.com/result?p=kea-loaders)
+[![NPM Version](https://img.shields.io/npm/v/kea-subscriptions.svg)](https://www.npmjs.com/package/kea-subscriptions)
+[![minified](https://badgen.net/bundlephobia/min/kea-subscriptions)](https://bundlephobia.com/result?p=kea-subscriptions)
+[![minified + gzipped](https://badgen.net/bundlephobia/minzip/kea-subscriptions)](https://bundlephobia.com/result?p=kea-subscriptions)
 [![Backers on Open Collective](https://opencollective.com/kea/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/kea/sponsors/badge.svg)](#sponsors)
 
