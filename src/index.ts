@@ -77,8 +77,9 @@ export const subscriptionsPlugin: KeaPlugin = {
               sub.lastValue = newValue
               sub.subscription(newValue, lastValue)
             }
-          } catch (e) {
-            console.error('nope')
+          } catch (error) {
+            console.error(`[KEA] Subscription Failed for action ${action.type} on logic ${sub.logic.pathString}.`)
+            console.error(error)
           }
         })
         return response
